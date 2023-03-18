@@ -1,0 +1,1 @@
+# wildcards_for_sd-dynamic-prompts
