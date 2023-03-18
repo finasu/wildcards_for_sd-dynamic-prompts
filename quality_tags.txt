@@ -1,0 +1,14 @@
+#◆ Danbooru tag
+#incredibly absurdres
+absurdres
+highres
+#lowres
+
+#◆ Not Danbooru Tag
+masterpiece
+best quality
+#high quality
+#normal quality
+#low quality
+#worst quality
+ultra-detailed
