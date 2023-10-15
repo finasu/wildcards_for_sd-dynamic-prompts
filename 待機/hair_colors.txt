@@ -1,0 +1,20 @@
+#◆ Danbooru tag
+blonde_hair
+brown_hair
+black_hair
+blue_hair
+purple_hair
+pink_hair
+white_hair
+red_hair
+grey_hair
+green_hair
+silver_hair
+orange_hair
+aqua_hair																				
+multicolored_hair
+streaked_hair
+gradient_hair
+light_brown_hair
+
+#◆ Not Danbooru Tag

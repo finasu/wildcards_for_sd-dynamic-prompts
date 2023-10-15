@@ -1,0 +1,27 @@
+#◆ Danbooru tag
+science fiction
+cyberpunk
+steampunk
+fantasy
+alice in wonderland
+greek mythology
+japanese mythology
+
+blue theme
+pink theme
+purple theme
+red theme
+green theme
+yellow theme
+brown theme
+white theme
+orange theme
+aqua theme
+black theme
+poke ball theme
+grey theme
+split theme
+playing card theme
+
+#◆ Not Danbooru Tag
+folklore

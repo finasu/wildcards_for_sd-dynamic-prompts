@@ -1,0 +1,49 @@
+#単色背景用の色リスト
+#red
+light red
+pastel red
+#blue
+light blue
+pastel blue
+#green
+light green
+pastel green
+#aqua
+light aqua
+pastel aqua
+#pink
+light pink
+pastel pink
+#yellow
+light yellow
+pastel yellow
+#orange
+light orange
+pastel orange
+#purple
+light purple
+pastel purple
+#brown
+light brown
+pastel brown
+#grey
+light grey
+pastel grey
+#teal
+light teal
+pastel teal
+#coral
+light coral
+pastel coral
+#lavender
+light lavender
+pastel lavender
+#mint
+light mint
+pastel mint
+#ivory
+light ivory
+pastel ivory
+white
+light white
+pastel white

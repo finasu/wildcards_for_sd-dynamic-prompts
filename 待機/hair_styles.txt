@@ -1,0 +1,12 @@
+#◆ Danbooru tag
+long_hair
+short_hair
+hair_between_eyes
+very_long_hair
+medium_hair
+hair_over_one_eye
+wavy_hair
+drill_hair
+single_hair_bun
+
+#◆ Not Danbooru Tag

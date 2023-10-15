@@ -1,0 +1,35 @@
+#◆ Danbooru tag
+
+
+#◆ Not Danbooru Tag
+aqua hair: may overlap with blue and green.
+black hair: may overlap with brown, blue and grey.
+blonde hair: may overlap with orange and brown.
+blue hair: may overlap with aqua and purple.
+light blue hair: may overlap with aqua.
+dark blue hair: may overlap with black.
+brown hair: may overlap with black, orange and red.
+light brown hair: may overlap with blonde and brown.
+green hair: may overlap with aqua.
+dark green hair
+light green hair
+grey hair: may overlap with white and black.
+orange hair: may overlap with brown and red.
+pink hair: may overlap with purple and red.
+purple hair: may overlap with blue and pink.
+light purple hair: may overlap with pink and purple.
+red hair: may overlap with orange and brown.
+white hair: may overlap with grey.
+
+aqua theme
+black theme
+blue theme
+brown theme
+green theme
+grey theme
+orange theme
+pink theme
+purple theme
+red theme
+white theme
+yellow theme

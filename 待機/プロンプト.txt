@@ -1,0 +1,7 @@
+__quality_tags__, __art_styles__, __character_numbers__, 
+
+{2-4$$__quality_tags__}, {2-4$$__art_styles__}, {1-2$$__character_numbers__}
+
+
+
+__angles__

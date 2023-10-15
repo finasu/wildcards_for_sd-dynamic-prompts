@@ -1,0 +1,42 @@
+plant
+potted plant
+flower
+flowers
+brick
+table
+desk
+bed
+chair
+book
+door
+pillow
+shelf
+window
+round window
+clock
+paper lantern
+steps
+bottles
+food
+teaset
+gun
+bullet
+bag
+cushion 
+globe
+vase
+jewelry
+box
+leaf
+smartphone 
+mirror 
+candle
+drawer
+stained glass
+water
+tiles
+bathtub
+curtain
+instrument
+broom
+

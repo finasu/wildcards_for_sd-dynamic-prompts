@@ -1,0 +1,13 @@
+worst quality
+low quality
+normal quality
+jpeg artifacts
+lowres
+
+lowres, text, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+
+worst quality, low quality, what has science done, what, nightmare fuel, eldritch horror, where is your god now, why
+
+(worst quality), low quality, distracting watermark, [nightmare fuel], ((unfinished)), deformed, outline, pattern, simple background

@@ -1,0 +1,31 @@
+red
+blue
+green
+pink
+pale pink
+magenta
+garnet color
+burgundy color
+orange color
+yellow
+pale yellow
+chartreuse green color
+turquoise green color
+cobalt green color
+turquoise blue
+soxe blue
+royal blue
+deep blue
+amaranth purple
+royal purple
+purple color
+peony
+brown
+bronze color
+terracotta color
+beige
+white
+black
+grey
+aqua color
+cyan

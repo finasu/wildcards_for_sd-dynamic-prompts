@@ -1,0 +1,10 @@
+from below
+from above
+from side
+from behind
+dutch angle
+(from below:0.8)
+(from above:0.8)
+(from side:0.8)
+(from behind:0.8)
+(dutch angle:0.8)
