@@ -1,0 +1,11 @@
+from below
+from above
+from side
+from behind
+dutch angle
+perspective
+wide_shot
+very wide shot
+scenery
+close-up
+#high up
